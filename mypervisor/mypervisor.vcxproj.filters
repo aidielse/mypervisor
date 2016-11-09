@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Source.c" />
+    <ClCompile Include="vmx.c" />
+    <ClCompile Include="util.c" />
+    <ClCompile Include="hypervisor.c" />
+    <ClCompile Include="virtualprocessor.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="default.h" />
+    <ClInclude Include="ntint.h" />
+    <ClInclude Include="mypervisor.h" />
+    <ClInclude Include="vmx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="x64.asm" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿  Building 'mypervisor' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Source.c
+  Generating code
+  Finished generating code
+  mypervisor.vcxproj -> C:\Users\aaron\Desktop\mypervisor\x64\Release\mypervisor.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\aaron\Desktop\mypervisor\x64\Release\mypervisor.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
