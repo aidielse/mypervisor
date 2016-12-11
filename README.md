@@ -2,6 +2,8 @@
 
 Win 10 x64 kernel driver that installs a hypervisor in between windows 10 and bare metal hardware!
 
+Heavily inspired by Alex Ionescu's Simplevisor.
+
 lotsa code in here for facilitating random kernel rootkit-like stuff. 
 
 I wrote this as an experiment when i was playing around in the windows kernel
